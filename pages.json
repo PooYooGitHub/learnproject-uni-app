@@ -64,7 +64,20 @@
 	"subPackages": [
 	    {
 	      "root": "subpkg",
-	      "pages": []
+	      "pages": [{
+	      	"path" : "goods_detail/goods_detail",
+	      	"style" : 
+	      	{
+	      		"navigationBarTitleText" : ""
+	      	}
+	      },
+	      {
+	      	"path" : "goods_list/goods_list",
+	      	"style" : 
+	      	{
+	      		"navigationBarTitleText" : ""
+	      	}
+	      }]
 	    }
 	  ],
 	"globalStyle": {
