@@ -58,7 +58,15 @@
 				"navigationBarTitleText" : ""
 			}
 		}
+		
 	],
+	// 分包
+	"subPackages": [
+	    {
+	      "root": "subpkg",
+	      "pages": []
+	    }
+	  ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
